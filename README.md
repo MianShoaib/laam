@@ -27,7 +27,7 @@
 
 ## Screenshots
 
-![Screenshot 1](https://drive.google.com/file/d/1y3U_Sars7xQ4d6hAKVJR16BNHAWwAOtz/view?usp=sharing)
+![Screenshot 1](images/logo.png)
 ![Screenshot 2](https://drive.google.com/file/d/1dsj73W4-8Ply30rN1s--HllXLvcJhle-/view?usp=sharing)
 ![Screenshot 3](https://drive.google.com/file/d/1BqL1j12O17tzrBAAFToqm0gd2R69NM2_/view?usp=sharing)
 ![Screenshot 4](https://drive.google.com/file/d/1EwZ0smJ1qdCOJ2_0g1osL6CEt7rM46qt/view?usp=sharing)
